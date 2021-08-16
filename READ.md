@@ -1,1 +1,2 @@
-*Git Basics*
+**Git Basics**
+add -> commit -> push
